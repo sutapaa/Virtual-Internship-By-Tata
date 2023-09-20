@@ -1,8 +1,6 @@
 # Virtual-Internship-By-Tata
 
-Tata iQ and Tata Insights and Quants offer an exciting virtual program. It's all about using data tools like Tableau and Power BI to solve complex business challenges and discover hidden insights. Join experts and dive into the world of data!
-
-The program showcases the types of challenges that Tata Insights and Quants face on a daily basis, striving to simulate the difficulties individuals might encounter.
+Tata iQ and Tata Insights and Quants offer an exciting virtual program.This program showcases the types of challenges that Tata Insights and Quants face on a daily basis, striving to simulate the difficulties individuals might encounter.
 
 **There are 4 modules in this virtual experience programme**
 
